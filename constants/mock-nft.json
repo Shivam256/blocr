@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "images/wallet.png",
+    "title": "Total buyable NFTs",
+    "description": "We are looking to raise $50 Million from multiple investors"
+  },
+  {
+    "id": 2,
+    "image": "images/nft2.png",
+    "title": "Percentage ownership",
+    "description": "Once you’ve set up your wallet of choice,Start Creating your Your NFTs"
+  },
+  {
+    "id": 3,
+    "image": "images/nft3.png",
+    "title": "Valuation of NFTs you own",
+    "description": "List Out all the Top hot notch NFTs available for sale"
+  }
+]
